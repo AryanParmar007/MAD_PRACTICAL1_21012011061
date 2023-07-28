@@ -15,7 +15,7 @@
      var cp:Double =c_price
 
      fun get_car_Info(){
-         println(" Car Information: $Info, $mod \n Car owner: $own \n miles_driven: $md \n Car original price:$op \n Current car price:$cp")
+         println("\n Car Information: $Info, $mod \n Car owner: $own \n miles_driven: $md \n Car original price:$op \n Current car price:$cp")
      }
 
  }
